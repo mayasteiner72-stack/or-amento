@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "material": "Lona azul",
+    "categoria": "Lona",
+    "quantidade": "20",
+    "minimo": "10",
+    "unidade": "m²",
+    "custo": "35",
+    "fornecedor": ""
+  }
+]

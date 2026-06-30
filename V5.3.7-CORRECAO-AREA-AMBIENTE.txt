@@ -1,0 +1,1 @@
+Correção definitiva do cálculo de área com decimais JS e campo Ambiente por serviço. Não altera cadastros.

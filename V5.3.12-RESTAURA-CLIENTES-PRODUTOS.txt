@@ -1,0 +1,1 @@
+Restaura e fixa clientes/produtos no startup do servidor, mesclando com dados existentes para não sumir no Railway.

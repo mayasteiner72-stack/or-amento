@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "descricao": "Entrada cliente teste",
+    "tipo": "Receita",
+    "valor": "500",
+    "vencimento": "",
+    "status": "Pago",
+    "forma": "PIX",
+    "cliente": "Cliente Teste"
+  }
+]

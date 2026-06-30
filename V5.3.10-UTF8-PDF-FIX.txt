@@ -1,0 +1,6 @@
+V5.3.10 - Correção UTF-8/PDF
+
+- Remove emojis e símbolos que quebravam no PDF.
+- Adiciona meta charset UTF-8 no HTML gerado para impressão/PDF.
+- Corrige textos com mojibake em fonte, PDF e dados base.
+- Mantém API, Railway e salvamento de produtos/listas da V5.3.9.

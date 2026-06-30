@@ -1,0 +1,20 @@
+IDEAL CONTROL PRO V5.1
+
+ALTERAÇÕES APLICADAS PARA O NOVO MODELO DE ORÇAMENTO
+
+- Modelo de orçamento profissional definido.
+- Garantia padrão alterada para 3 meses.
+- Prazo padrão alterado para 10 a 15 dias úteis.
+- Layout preparado para logo oficial da Ideal Toldos.
+- Status previstos:
+  * Pendente
+  * Em análise
+  * Aprovado
+  * Em produção
+  * Agendado
+  * Instalado
+  * Finalizado
+  * Cancelado
+- Valor total em destaque.
+- Entrada e saldo destacados.
+- Estrutura preparada para cabeçalho azul, assinaturas e rodapé.

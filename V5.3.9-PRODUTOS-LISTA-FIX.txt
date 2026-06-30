@@ -1,0 +1,8 @@
+V5.3.9 - Correção Produtos + Listas
+
+- Corrigido salvamento de produtos via API.
+- Corrigida atualização imediata das listas após salvar/excluir.
+- Corrigido cache do navegador/Railway nas rotas /api.
+- Frontend agora usa fetch com cache no-store.
+- Após salvar produto, a lista e o seletor de serviços/orçamentos são recarregados.
+- server.js atualizado para enviar headers no-cache nas rotas da API.

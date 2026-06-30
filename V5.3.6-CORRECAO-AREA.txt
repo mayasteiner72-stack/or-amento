@@ -1,0 +1,10 @@
+V5.3.6 - Correção Área Orçamento/Recibo
+
+- Corrigida leitura de número decimal com ponto e vírgula.
+- 13 x 3,5 x 1 agora calcula 45,50 m².
+- 13 x 3.5 x 1 também calcula 45,50 m².
+- Área aparece na linha do serviço enquanto digita as medidas.
+- Lista de orçamentos recalcula a área a partir das medidas salvas.
+- PDF do orçamento recalcula a área correta a partir dos itens.
+- Mensagem WhatsApp usa área corrigida.
+- Build testado com sucesso.

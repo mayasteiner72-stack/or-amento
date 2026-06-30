@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1782506669395,
+    "nome": "Fechamento - PLATIBANDA GALVANIZADA",
+    "categoria": "Cobertura",
+    "preco_m2": "R$ 90,00",
+    "custo_m2": "R$ 45,00",
+    "tempo": "10 Dias",
+    "descricao": "Instalado"
+  },
+  {
+    "id": 1782505933415,
+    "nome": "Forro / Drywall",
+    "categoria": "Forro",
+    "preco_m2": "R$ 120,00",
+    "custo_m2": "R$ 60,00",
+    "tempo": "10 Dias",
+    "descricao": "Instalado"
+  },
+  {
+    "id": 1782505888822,
+    "nome": "Cobertura - POLICARBONATO",
+    "categoria": "Cobertura",
+    "preco_m2": "R$ 650,00",
+    "custo_m2": "R$ 300,00",
+    "tempo": "10 Dias",
+    "descricao": "Instalado"
+  },
+  {
+    "id": 1782505834840,
+    "nome": "Cobertura de ZINCO / GALVALUME",
+    "categoria": "Cobertura",
+    "preco_m2": "R$ 220,00",
+    "custo_m2": "R$ 100,00",
+    "tempo": "10 Dias",
+    "descricao": "Instalado"
+  },
+  {
+    "id": 1782505752251,
+    "nome": "Letreiro TELHA GALVANIZADA + LOGO + ILUMINAÇÃO",
+    "categoria": "Letreiro",
+    "preco_m2": "R$ 350,00",
+    "custo_m2": "R$ 150,00",
+    "tempo": "10 Dias",
+    "descricao": "Instalado"
+  },
+  {
+    "id": 1782505670585,
+    "nome": "Letreiro ACM + LOGO + ILUMINAÇÃO",
+    "categoria": "Letreiro",
+    "preco_m2": "R$ 550,00",
+    "custo_m2": "R$ 200,00",
+    "tempo": "10 Dias",
+    "descricao": "Instalado"
+  },
+  {
+    "id": 1782505567567,
+    "nome": "Toldo cortina",
+    "categoria": "Toldo",
+    "preco_m2": "R$ 180,00",
+    "custo_m2": "R$ 80,00",
+    "tempo": "10 Dias",
+    "descricao": "Instalado"
+  },
+  {
+    "id": 2,
+    "nome": "Toldo Capota - Articulado",
+    "categoria": "Capota",
+    "preco_m2": "R$ 550,00",
+    "custo_m2": "R$ 200,00",
+    "tempo": "7 Dias",
+    "descricao": "Capota sob medida"
+  },
+  {
+    "id": 3,
+    "nome": "Forro PVC",
+    "categoria": "PVC",
+    "preco_m2": "R$ 95,00",
+    "custo_m2": "R$ 45,00",
+    "tempo": "3 Dias",
+    "descricao": "Forro PVC instalado"
+  }
+]

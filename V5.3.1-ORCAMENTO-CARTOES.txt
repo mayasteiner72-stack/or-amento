@@ -1,0 +1,13 @@
+IDEAL CONTROL PRO - V5.3.1 ORÇAMENTO
+
+Alteração aplicada somente no módulo de Orçamentos:
+- Novo cabeçalho "Novo Orçamento".
+- Interface em cartões: Cliente, Obra, Serviço, Medidas, Valores e Observações.
+- Botões reorganizados: Salvar orçamento, Gerar PDF e WhatsApp no topo do módulo.
+- Lista de orçamentos com ações: PDF, WhatsApp, Editar e Excluir.
+- Aparência mais limpa e profissional.
+- Cálculo, API, dados e demais módulos mantidos.
+
+Teste realizado:
+- npm install
+- npm run build: OK

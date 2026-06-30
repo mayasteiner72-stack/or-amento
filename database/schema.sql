@@ -1,0 +1,14 @@
+CREATE TABLE usuarios(id SERIAL PRIMARY KEY,nome TEXT,email TEXT,perfil TEXT,senha TEXT,ativo TEXT);
+CREATE TABLE clientes(id SERIAL PRIMARY KEY,nome TEXT,telefone TEXT,whatsapp TEXT,email TEXT,cpf_cnpj TEXT,bairro TEXT,endereco TEXT,observacoes TEXT);
+CREATE TABLE produtos(id SERIAL PRIMARY KEY,nome TEXT,categoria TEXT,preco_m2 NUMERIC,custo_m2 NUMERIC,tempo TEXT,descricao TEXT);
+CREATE TABLE orcamentos(id SERIAL PRIMARY KEY,cliente_id INT,produto_id INT,area NUMERIC,total NUMERIC,custo NUMERIC,lucro NUMERIC,status TEXT,forma_pagamento TEXT,observacoes TEXT);
+CREATE TABLE recibos(id SERIAL PRIMARY KEY,cliente TEXT,telefone TEXT,servico TEXT,valor NUMERIC,valor_pago NUMERIC,forma TEXT,data DATE,observacoes TEXT);
+CREATE TABLE contratos(id SERIAL PRIMARY KEY,cliente TEXT,telefone TEXT,servico TEXT,valor NUMERIC,prazo TEXT,garantia TEXT,condicoes TEXT,observacoes TEXT);
+CREATE TABLE garantias(id SERIAL PRIMARY KEY,cliente TEXT,telefone TEXT,servico TEXT,data_inicio DATE,validade TEXT,observacoes TEXT);
+CREATE TABLE producao(id SERIAL PRIMARY KEY,cliente TEXT,servico TEXT,etapa TEXT,responsavel TEXT,previsao DATE,prioridade TEXT,observacoes TEXT);
+CREATE TABLE agenda(id SERIAL PRIMARY KEY,cliente TEXT,tipo TEXT,data DATE,hora TEXT,endereco TEXT,status TEXT,observacoes TEXT);
+CREATE TABLE financeiro(id SERIAL PRIMARY KEY,descricao TEXT,tipo TEXT,valor NUMERIC,vencimento DATE,status TEXT,forma TEXT,cliente TEXT,parcela TEXT);
+CREATE TABLE estoque(id SERIAL PRIMARY KEY,material TEXT,categoria TEXT,quantidade NUMERIC,minimo NUMERIC,unidade TEXT,custo NUMERIC,fornecedor TEXT);
+CREATE TABLE fornecedores(id SERIAL PRIMARY KEY,nome TEXT,telefone TEXT,whatsapp TEXT,categoria TEXT,endereco TEXT,observacoes TEXT);
+CREATE TABLE compras(id SERIAL PRIMARY KEY,fornecedor TEXT,material TEXT,quantidade NUMERIC,valor NUMERIC,data DATE,status TEXT,observacoes TEXT);
+CREATE TABLE historico(id SERIAL PRIMARY KEY,cliente TEXT,tipo TEXT,descricao TEXT,data DATE);

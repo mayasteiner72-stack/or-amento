@@ -1,0 +1,22 @@
+V5.3.2 - ORCAMENTO PROFISSIONAL
+
+Alterado somente o modulo de Orcamentos.
+
+Implementado:
+- Numero automatico ORC-000001.
+- Data e hora automatica.
+- Status: Rascunho, Enviado, Aprovado, Concluido e Cancelado.
+- Layout profissional com identificacao, cliente, obra, servicos e observacoes.
+- Tabela para multiplos servicos no mesmo orcamento.
+- Subtotal automatico.
+- Desconto.
+- Frete/deslocamento.
+- Total geral destacado.
+- Painel de resumo financeiro no desktop e responsivo no mobile.
+- Lista de orcamentos exibindo numero, status e data.
+- PDF atualizado para mostrar numero, data, status, itens, subtotal, desconto, frete e total.
+
+Nao alterado:
+- Demais modulos do sistema.
+- Rotas do servidor.
+- Banco/JSON de dados.

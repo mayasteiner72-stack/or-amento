@@ -1,0 +1,7 @@
+V5.3.3 - PDF Modelo Premium Ideal Toldos
+- PDF de orçamento reformulado para ficar no padrão azul/branco enviado como referência.
+- Garantia alterada para 3 meses.
+- Prazo de fabricação alterado para 10 a 15 dias úteis.
+- Status do orçamento padronizado: Pendente, Enviado, Aprovado, Concluído e Cancelado.
+- Orçamentos salvos agora preservam status, desconto, frete, forma de pagamento, observações e dados do cliente.
+- Logo adicionada em public/logo-ideal.png, podendo ser substituída depois pela logo oficial.

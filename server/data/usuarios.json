@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "nome": "Administrador",
+    "email": "admin@ideal.local",
+    "perfil": "Administrador",
+    "senha": "123456",
+    "ativo": "Sim"
+  }
+]

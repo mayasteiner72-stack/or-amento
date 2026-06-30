@@ -1,0 +1,13 @@
+V5.3.4 - RECIBO PREMIUM
+
+Alterações:
+- Recibo com visual premium azul/branco no mesmo padrão do orçamento.
+- Número automático REC-000001.
+- Status do pagamento selecionável: Parcial, Quitado, Cancelado.
+- Forma de pagamento selecionável: PIX, Dinheiro, Cartão de Crédito, Cartão de Débito, Transferência, Boleto.
+- Dados do cliente, serviço, orçamento de referência, valor total, valor recebido e saldo restante.
+- PDF/Impressão do recibo com cabeçalho, logo, assinatura da empresa e assinatura do cliente.
+- Garantia padrão mantida em 3 meses.
+- Prazo padrão mantido em 10 a 15 dias úteis.
+- Botão de recibo rápido adicionado na lista de orçamentos.
+- Build testado com sucesso.

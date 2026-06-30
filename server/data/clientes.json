@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1782506203580,
+    "nome": "LARISSA BRITTO",
+    "telefone": "",
+    "whatsapp": "21 97566-0778",
+    "email": "",
+    "cpf_cnpj": "",
+    "bairro": "Paciência",
+    "endereco": "Rio de Janeiro",
+    "observacoes": ""
+  },
+  {
+    "id": 1782506104026,
+    "nome": "SONIA LARA",
+    "telefone": "",
+    "whatsapp": "21 98350-8831",
+    "email": "",
+    "cpf_cnpj": "",
+    "bairro": "Campo Grande",
+    "endereco": "Rio de Janeiro",
+    "observacoes": ""
+  },
+  {
+    "id": 1,
+    "nome": "ADAILSON GOMES",
+    "telefone": "",
+    "whatsapp": "21 96539-5491",
+    "bairro": "Campo Grande",
+    "endereco": "Rio de Janeiro",
+    "observacoes": "Cliente inicial"
+  }
+]
